@@ -1,5 +1,5 @@
 # Virtual-Simulations-Project
-A C++ program to run multiple virtual simulations of character battles
+A C program to run multiple virtual simulations of character battles
 author: Abdul_mateen Bola-Oyebamiji
 purpose:  run a simulation
 
